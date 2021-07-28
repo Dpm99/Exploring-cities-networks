@@ -1,0 +1,1 @@
+Given the current pandemic we face, acces-sibility to hospitals is of the utmost importance. UsingOSMnx, a pyhton library that extracts network data from OpenStreetMaps, I provide a simple, easily scalable tutorial where we analyse the accessibility of Lisbon’s hospitals.
